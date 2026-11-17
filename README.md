@@ -106,6 +106,8 @@ The project retains the `sodapy` client to match the course-provided workflow. I
 
 Clone the repository or download and extract its ZIP archive. Open a terminal in the project root (`crime-trends/`).
 
+git clone https://github.com/Kryysis/crime-trends.git
+
 ### 2. Create a Python virtual environment
 
 **Windows PowerShell:**
