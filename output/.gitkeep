@@ -1,0 +1,1 @@
+This directory receives transformed_data.csv and latest_summary.json after a successful or attempted pipeline run.

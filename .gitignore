@@ -1,0 +1,27 @@
+# Secrets and local environment
+.env
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Runtime outputs and logs (created when the project runs)
+output/*.csv
+output/latest_summary.json
+output/latest_summary.json.tmp
+output/pipeline.lock
+logs/*.log
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+*.tar.gz

@@ -1,0 +1,7 @@
+pandas>=2.2,<4
+sodapy>=2.2,<3
+python-dotenv>=1.0,<2
+prefect>=3.0,<4
+psycopg2-binary>=2.9,<3
+streamlit>=1.40,<2
+matplotlib>=3.8,<4
